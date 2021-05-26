@@ -8,6 +8,7 @@ import {
 import App from './App'
 import Contact from './Components/Contact/Contact';
 import Homeworks from './Components/Homeworks';
+import Project from './Components/Projects/Project';
 
 function Routing () {
   return (
@@ -16,6 +17,7 @@ function Routing () {
           <Switch>
            <Route path="/contact" component={Contact} />
            <Route path="/homeworks" component={Homeworks} />
+           <Route path="/projects" component={Project} />
            <Route path="/" component={App}/>
             
         </Switch>
