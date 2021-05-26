@@ -27,20 +27,20 @@ function App() {
         <tr>
           <th scope="row">1</th>
           <td>Master Sheet</td>
-          <td>This is link to master sheet which has links to everything el</td>
-          <td><a href="https://docs.google.com/spreadsheets/d/1LP8zSW6I1teJ7RoLqdRtWoU7s3o2A3QxfQMmEW1wXCQ/edit?usp=sharing"> Mastersheet</a></td>
+          <td>This is link to master sheet which has links to everything else</td>
+          <td><a href="https://docs.google.com/spreadsheets/d/1LP8zSW6I1teJ7RoLqdRtWoU7s3o2A3QxfQMmEW1wXCQ/edit?usp=sharing" target="_blank"> Mastersheet</a></td>
         </tr>
         <tr>
           <th scope="row">2</th>
           <td>Progress Card</td>
           <td>This link will provide progress card of assignments </td>
-          <td><a href="https://docs.google.com/spreadsheets/d/1LP8zSW6I1teJ7RoLqdRtWoU7s3o2A3QxfQMmEW1wXCQ/edit?usp=sharing"> Link</a></td>
+          <td><a href="https://docs.google.com/spreadsheets/d/1LP8zSW6I1teJ7RoLqdRtWoU7s3o2A3QxfQMmEW1wXCQ/edit?usp=sharing" target="_blank"> Link</a></td>
         </tr>
         <tr>
           <th scope="row">3</th>
           <td>Front End Github</td>
           <td>Front end github repository link where our instructors can review your code </td>
-          <td><a href="https://github.com/ShaivyT/May24react"> Link</a></td>
+          <td><a href="https://github.com/ShaivyT/May24react" target="_blank"> Link</a></td>
         </tr>
       
         

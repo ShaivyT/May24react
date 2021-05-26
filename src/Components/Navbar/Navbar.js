@@ -32,6 +32,11 @@ const Example = (props) => {
               <Link to="/homeworks"><NavLink>Homework</NavLink></Link>
             </NavItem>
           </Nav>
+          <Nav className="mr-auto" navbar>
+            <NavItem>
+              <Link to="/projects"><NavLink>Project</NavLink></Link>
+            </NavItem>
+          </Nav>
         </Collapse>
       </Navbar>
     </div>
