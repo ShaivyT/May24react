@@ -27,7 +27,7 @@ function Project() {
             <th scope="row">1</th>
             <td>Project1</td>
             <td>Html Practice</td>
-            <td><a href="./" target="_blank" rel="noreferrer"> Link</a></td>
+            <td><a href="https://sthtmlproject.netlify.app/" target="_blank" rel="noreferrer"> Link</a></td>
           </tr>
         </tbody>
     </Table>
