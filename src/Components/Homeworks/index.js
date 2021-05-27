@@ -47,6 +47,30 @@ function Homeworks() {
           <td>HTML Website - Github Link</td>
           <td><a href="https://github.com/ShaivyT/HtmlWebsite" target="_blank" rel="noreferrer"> Link</a> </td>
         </tr>
+        <tr>
+          <th scope="row">5</th>
+          <td>Homework 3.1</td>
+          <td>CSS Selectors Exercise</td>
+          <td><a href="https://codepen.io/shaivy/pen/XWMaQjV" target="_blank" rel="noreferrer"> Link</a> </td>
+        </tr>
+        <tr>
+          <th scope="row">6</th>
+          <td>Homework 3.2</td>
+          <td>Navigation Bar</td>
+          <td><a href="https://codepen.io/shaivy/pen/oNZGvob" target="_blank" rel="noreferrer"> Link</a> </td>
+        </tr>
+        <tr>
+          <th scope="row">7</th>
+          <td>Homework 3.3</td>
+          <td>JavaScript Function</td>
+          <td><a href="https://codepen.io/shaivy/pen/yLMoWYE?editors=1111" target="_blank" rel="noreferrer"> Link</a> </td>
+        </tr>
+        <tr>
+          <th scope="row">8</th>
+          <td>Homework Quiz</td>
+          <td>Quiz on Codepen</td>
+          <td><a href="https://codepen.io/shaivy/pen/JjWrPdQ" target="_blank" rel="noreferrer"> Link</a> </td>
+        </tr>
       </tbody>
     </Table>
         </Container>
