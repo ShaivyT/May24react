@@ -71,6 +71,12 @@ function Homeworks() {
           <td>Quiz on Codepen</td>
           <td><a href="https://codepen.io/shaivy/pen/JjWrPdQ" target="_blank" rel="noreferrer"> Link</a> </td>
         </tr>
+        <tr>
+          <th scope="row">9</th>
+          <td>Homework 4</td>
+          <td>HTML Questionnaire</td>
+          <td><a href="https://friendly-kare-3a0f81.netlify.app/" target="_blank" rel="noreferrer"> Link</a> </td>
+        </tr>
       </tbody>
     </Table>
         </Container>
