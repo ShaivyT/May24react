@@ -77,6 +77,28 @@ function Homeworks() {
           <td>HTML Questionnaire</td>
           <td><a href="https://friendly-kare-3a0f81.netlify.app/" target="_blank" rel="noreferrer"> Link</a> </td>
         </tr>
+        <tr>
+          <th scope="row">10</th>
+          <td>Homework 5.1</td>
+          <td>HTML Questionnaire</td>
+          <td><a href="https://codepen.io/shaivy/pen/bGqagwL" target="_blank" rel="noreferrer"> Link</a> </td>
+        </tr>
+        <tr>
+          <th scope="row">11</th>
+          <td>Homework 5.2</td>
+          <td>Home Assessment</td>
+        </tr>
+        <tr>
+          <th scope="row">12</th>
+          <td>Homework 5.3</td>
+          <td>Algorithms</td>
+        </tr>
+        <tr>
+          <th scope="row">13</th>
+          <td>Homework 6.1</td>
+          <td>Boilerplate Integration</td>
+          <td><a href="/" target="_blank" rel="noreferrer"> Link</a> </td>
+        </tr>
       </tbody>
     </Table>
         </Container>
