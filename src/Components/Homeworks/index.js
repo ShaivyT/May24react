@@ -66,12 +66,6 @@ function Homeworks() {
           <td><a href="https://codepen.io/shaivy/pen/yLMoWYE?editors=1111" target="_blank" rel="noreferrer"> Link</a> </td>
         </tr>
         <tr>
-          <th scope="row">8</th>
-          <td>Homework Quiz</td>
-          <td>Quiz on Codepen</td>
-          <td><a href="https://codepen.io/shaivy/pen/JjWrPdQ" target="_blank" rel="noreferrer"> Link</a> </td>
-        </tr>
-        <tr>
           <th scope="row">9</th>
           <td>Homework 4</td>
           <td>HTML Questionnaire</td>
@@ -80,24 +74,26 @@ function Homeworks() {
         <tr>
           <th scope="row">10</th>
           <td>Homework 5.1</td>
-          <td>HTML Questionnaire</td>
+          <td>Light and Dark Theme</td>
           <td><a href="https://codepen.io/shaivy/pen/bGqagwL" target="_blank" rel="noreferrer"> Link</a> </td>
         </tr>
         <tr>
           <th scope="row">11</th>
           <td>Homework 5.2</td>
-          <td>Home Assessment</td>
+          <td>Frontier Assessment</td>
+          <td><a href="https://codepen.io/shaivy/pen/eYvLoZE" target="_blank" rel="noreferrer"> Link</a> </td>
         </tr>
         <tr>
           <th scope="row">12</th>
-          <td>Homework 5.3</td>
-          <td>Algorithms</td>
+          <td>Homework 10.2</td>
+          <td>Lottery Project</td>
+          <td><a href="https://lottery-team-selection.netlify.app/" target="_blank" rel="noreferrer"> Link</a> </td>
         </tr>
         <tr>
           <th scope="row">13</th>
-          <td>Homework 6.1</td>
-          <td>Boilerplate Integration</td>
-          <td><a href="/" target="_blank" rel="noreferrer"> Link</a> </td>
+          <td>Homework 11.1</td>
+          <td>CSS Grid</td>
+          <td><a href="https://codepen.io/shaivy/pen/ExWerOj" target="_blank" rel="noreferrer"> Link</a> </td>
         </tr>
       </tbody>
     </Table>
